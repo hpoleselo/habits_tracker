@@ -6,3 +6,4 @@ Analyze your habits by taking a photo from your habits tracker sheet.
 - Create dataframe for each habit wrt. to its counter
 - Create graphics for analytics
 - Get current data and output in a nice format along with the graph and maybe a digital sheet?
+- Put it in a AWS container along with Telegram Forecaster using Firebase?
