@@ -14,6 +14,8 @@ Implementation ideas:
 
 ## Resources
 ### Handwriting recognition
+- https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/
+- https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/
 - https://www.pyimagesearch.com/2020/08/24/ocr-handwriting-recognition-with-opencv-keras-and-tensorflow/
 - https://nanonets.com/blog/handwritten-character-recognition/
 
